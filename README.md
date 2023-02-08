@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ian Blake, and I'm an HDip Computer Science student at South East Technological University. :ireland:
+
 <!--
 **ianbl8/ianbl8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
