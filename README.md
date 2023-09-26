@@ -4,10 +4,10 @@
 Enthusiastic and motivated computer science student, working towards a career in software development. Skilled in front-end and back-end development, and focused on problem solving. 
 
 ## Skills
-•	Web development: HTML, CSS, Node.js, Hapi, React, Svelte
-•	Programming: JavaScript, Java, Kotlin, Python, Bash scripting
-•	Databases: MySQL, MongoDB
-•	Systems and Applications: Windows, Linux, Microsoft Office/365, SharePoint
+-	Web development: HTML, CSS, Node.js, Hapi, React, Svelte
+-	Programming: JavaScript, Java, Kotlin, Python, Bash scripting
+-	Databases: MySQL, MongoDB
+-	Systems and Applications: Windows, Linux, Microsoft Office/365, SharePoint
 
 
 <!--
