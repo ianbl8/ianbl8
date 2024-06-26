@@ -1,14 +1,13 @@
 # Hi, I'm Ian Blake.
 
 ## Profile
-Enthusiastic and motivated computer science student, working towards a career in software development.
-Skilled in front-end and back-end development, and focused on problem solving. 
+An enthusiastic and motivated computer science student, building a career in software development and technical support. Skilled in both front-end and back-end development. Focused on problem solving, accuracy and attention to detail, and user experience. Flexible and able to adapt easily to changing priorities and circumstances. Eager to learn, and to further develop my programming skills.
 
 ## Skills
--	Web development: HTML, CSS, Node.js, Hapi, React, Svelte
--	Programming: JavaScript, Java, Kotlin, Python, Bash scripting
--	Databases: MySQL, MongoDB
--	Systems and Applications: Windows, Linux, Microsoft Office/365, SharePoint
+-	Web development: HTML, CSS, Node.js, React, SvelteKit, Tailwind CSS
+- Programming: JavaScript, TypeScript, Java, Kotlin, Python, Bash scripting
+- Databases: Relational (MySQL, PostgreSQL) and non-relational (NoSQL)
+- Systems and Applications: Linux (Debian, Fedora), Windows, Office 365, SharePoint
 
 
 <!--
